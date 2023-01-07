@@ -52,14 +52,13 @@
 }
 
 @media screen and (min-width: 2000px) {
-  .app__aboutus-content img {
+  .app__aboutus-content_knife img {
     height: 1110px;
   }
 
   .app__aboutus-content_history p,
   .app__aboutus-content_about p {
     margin: 4rem 0;
-    color: var(--color-grey);
   }
 }
 
